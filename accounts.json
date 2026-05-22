@@ -1,0 +1,17 @@
+{
+    "batman": {
+        "Balance": 6666.0
+    },
+    "spiderman": {
+        "Balance": 1061.0
+    },
+    "superman": {
+        "Balance": 9999.0
+    },
+    "robin": {
+        "Balance": 3333.0
+    },
+    "Hulk": {
+        "Balance": 6666.0
+    }
+}
