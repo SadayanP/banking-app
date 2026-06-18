@@ -8,6 +8,8 @@ Allows users to create accounts, deposit and withdraw funds,
 and check balances. Account data is saved to a JSON file 
 and persists between sessions.
 
+![Banking App Screenshot](image.png)
+
 ## How to run
 1. Make sure Python is installed
 2. Run: python banking_app_v3.py
